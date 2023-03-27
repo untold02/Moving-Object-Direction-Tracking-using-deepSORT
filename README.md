@@ -4,13 +4,14 @@ Here I am working on detecting moving objects direction using YOLOv4, deepSORT a
 
 # Raw Demo Video↓
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/84290745/227867156-aad39051-0f4c-4737-8301-ee1945127d92.gif)
 
 
 # Getting Started
 To get started, install the dependencies either via Anaconda or Pip. 
 
 ## conda
-`# Tensorflow CPU`
+**#Tensorflow CPU**
 
 `conda env create -f conda-cpu.yml`
 
@@ -18,8 +19,11 @@ To get started, install the dependencies either via Anaconda or Pip.
 
 ## pip
 
-`# TensorFlow CPU
-pip install -r requirements.txt`
+(TensorFlow 2 packages require a pip version >19.0.)
+
+**#TensorFlow CPU**
+
+`pip install -r requirements.txt`
 
 ## Downloading YOLOv4 Pre-trained Weights
 
