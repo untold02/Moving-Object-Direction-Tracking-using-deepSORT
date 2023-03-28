@@ -11,6 +11,14 @@ Here I am working on detecting moving objects direction using YOLOv4, deepSORT a
 # Getting Started
 To get started, install the dependencies either via Anaconda or Pip. 
 
+## download python
+
+https://www.python.org/downloads/
+
+## install tensorflow
+
+https://www.tensorflow.org/install/pip?hl=ja
+
 ## conda
 **#Tensorflow CPU**
 
