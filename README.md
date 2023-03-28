@@ -67,3 +67,7 @@ The following commands will allow you to run yolov4-tiny model. Yolov4-tiny allo
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/84290745/227864521-20f90e73-febe-4abb-a7a6-925b206fd0c4.gif)
 
+## References
+1) https://github.com/hunglc007/tensorflow-yolov4-tflite
+
+2) https://github.com/hunglc007/tensorflow-yolov4-tflite
