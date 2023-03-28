@@ -70,4 +70,4 @@ The following commands will allow you to run yolov4-tiny model. Yolov4-tiny allo
 ## References
 1) https://github.com/hunglc007/tensorflow-yolov4-tflite
 
-2) https://github.com/hunglc007/tensorflow-yolov4-tflite
+2) https://github.com/nwojke/deep_sort
